@@ -13,15 +13,15 @@
 - **Environment**: Laragon / XAMPP / Laravel Sail
 
 ## 3. Cara instalasi
-git clone https://github.com/saipuljr19/proyekdummy.git
-cd proyekdummy
-composer install
-npm install && npm run dev
-cp .env.example .env
-php artisan key:generate
-php artisan migrate --seed
-php artisan serve
-http://127.0.0.1:8000
+- git clone https://github.com/saipuljr19/proyekdummy.git
+- cd proyekdummy
+- composer install
+- npm install && npm run dev
+- cp .env.example .env
+- php artisan key:generate
+- php artisan migrate --seed
+- php artisan serve
+- http://127.0.0.1:8000
 
 Username & password
 email : saifulrsd19@gmail.com
