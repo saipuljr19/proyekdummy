@@ -13,7 +13,6 @@
 - **Environment**: Laragon / XAMPP / Laravel Sail
 
 ## 3. Cara instalasi
-'''bash
 git clone https://github.com/saipuljr19/proyekdummy.git
 cd proyekdummy
 composer install
