@@ -23,6 +23,6 @@
 - php artisan serve
 - http://127.0.0.1:8000
 
-Username & password
-email : saifulrsd19@gmail.com
-password : Saipulrsd19
+## 4. Username & password
+- email : saifulrsd19@gmail.com
+- password : Saipulrsd19
